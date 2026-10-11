@@ -211,8 +211,6 @@ Placement predictions and career guidance are estimates based on the information
 
 ## Author / Project Information
 
-- **Author:** `<YOUR_NAME>`
-- **Institution:** `<YOUR_INSTITUTION>`
-- **Repository:** `<YOUR_GITHUB_REPOSITORY_URL>`
+- **Author:** ROSHNI WAGHMARE
+- **Repository:** https://github.com/roshnigajananwaghmare/Placentra-AI
 
-Replace these placeholders with your own information before publishing.
